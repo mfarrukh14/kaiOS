@@ -1,6 +1,6 @@
-# KaiOS - Lightweight Operating System
+# KaiOS
 
-A minimal, lightweight Linux-like operating system built from scratch in C++ and x86 assembly.
+AI based operating system
 
 ## Features
 
